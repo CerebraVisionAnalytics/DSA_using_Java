@@ -32,7 +32,7 @@ under_each_data_structue_folder==>
 
 ##### Resources Video Lectures:-
 
-```
+
 1. Take You Forward You tube Channel :-  https://www.youtube.com/c/takeUforward/playlists 
 
 2. Array , Searching & Sorting Series:-  https://www.youtube.com/watch?v=32Ll35mhWg0&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2 
@@ -49,14 +49,13 @@ under_each_data_structue_folder==>
 
 7. Graph:- https://www.youtube.com/watch?v=LCrovIMurxY&list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw 
 
+
+
+
+
+## We Are Starting The 60 days of DSA_using_Java
+
 ```
-
-
-
-
-## We Are Starting The 90 days of DSA_using_Java
-
-
 #### Step 1:- Time & Space complexity                                          1 days
 
 
@@ -97,10 +96,10 @@ under_each_data_structue_folder==>
 #### Step 13:- Basic of Graph & Problems                                        8 days
 
 
-### Step 14:-  All Revision                                                     5 days
+#### Step 14:-  All Revision                                                     5 days
 
 
-
+```
 
 
 
