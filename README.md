@@ -30,27 +30,6 @@ under_each_data_structue_folder==>
 
 
 
-##### Resources Video Lectures:-
-
-
-1. Take You Forward You tube Channel :-  https://www.youtube.com/c/takeUforward/playlists 
-
-2. Array , Searching & Sorting Series:-  https://www.youtube.com/watch?v=32Ll35mhWg0&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2 
-
-3. Hashing :- https://www.youtube.com/watch?v=dRUpbt8vHpo&list=PLgUwDviBIf0rVwua0kKYlsS_ik_1lyVK_ 
-
-4. Recursion:- https://www.youtube.com/watch?v=yVdKa8dnKiE&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9 
-
-5. LinkedList:- https://www.youtube.com/watch?v=iRtLEoL-r-g&list=PLgUwDviBIf0r47RKH7fdWN54AbWFgGuii 
-
-6. Stack & Queue :- https://www.youtube.com/watch?v=GYptUgnIM_I&list=PLgUwDviBIf0oSO572kQ7KCSvCUh1AdILj 
-
-6. Tree & BST:- https://www.youtube.com/watch?v=OYqYEM1bMK8&list=PLgUwDviBIf0q8Hkd7bK2Bpryj2xVJk8Vk 
-
-7. Graph:- https://www.youtube.com/watch?v=LCrovIMurxY&list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw 
-
-
-
 
 
 ## We Are Starting The 60 days of DSA_using_Java
@@ -103,4 +82,28 @@ under_each_data_structue_folder==>
 
 
 
+
+
+
+
+
+
+##### Resources Video Lectures:-
+
+
+1. Take You Forward You tube Channel :-  https://www.youtube.com/c/takeUforward/playlists 
+
+2. Array , Searching & Sorting Series:-  https://www.youtube.com/watch?v=32Ll35mhWg0&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2 
+
+3. Hashing :- https://www.youtube.com/watch?v=dRUpbt8vHpo&list=PLgUwDviBIf0rVwua0kKYlsS_ik_1lyVK_ 
+
+4. Recursion:- https://www.youtube.com/watch?v=yVdKa8dnKiE&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9 
+
+5. LinkedList:- https://www.youtube.com/watch?v=iRtLEoL-r-g&list=PLgUwDviBIf0r47RKH7fdWN54AbWFgGuii 
+
+6. Stack & Queue :- https://www.youtube.com/watch?v=GYptUgnIM_I&list=PLgUwDviBIf0oSO572kQ7KCSvCUh1AdILj 
+
+6. Tree & BST:- https://www.youtube.com/watch?v=OYqYEM1bMK8&list=PLgUwDviBIf0q8Hkd7bK2Bpryj2xVJk8Vk 
+
+7. Graph:- https://www.youtube.com/watch?v=LCrovIMurxY&list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw 
 
